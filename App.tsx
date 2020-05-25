@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This is my first app (XD) !</Text>
+      <Text>This appl;ication is in progress</Text>
     </View>
   );
 }
